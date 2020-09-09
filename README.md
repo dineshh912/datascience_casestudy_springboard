@@ -1,8 +1,9 @@
-# datascience_casestudy_springboard
+Introduction
+---------------------
 
 Repository contains different datascience casestudies performed on the part of Springboard datascience curriculum.
 
-## Contents
+Contents
 ---------------------
 
  * Google play & Appstore Apps analysis
